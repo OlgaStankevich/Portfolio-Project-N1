@@ -9,3 +9,5 @@
 - Setting up a data model for visualization
 - Visualization of data in Power BI reports in the form of tables
 - Visualization of data in Power BI reports in the form of graphs
+
+https://github.com/OlgaStankevich/Portfolio-Project-N1/issues/1
